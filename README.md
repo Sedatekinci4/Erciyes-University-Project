@@ -18,3 +18,7 @@ Circuit Drawings
 ![Nodemcu_circuit](https://github.com/Sedatekinci4/Erciyes-University-Project/assets/57107943/daa28b4e-7285-4bbc-b9e8-23a4f4dd0458)
 ![Nodemcu_circuit01](https://github.com/Sedatekinci4/Erciyes-University-Project/assets/57107943/8716a4b2-4926-4f66-b89e-383ee26c48cd)
 ![Nodemcu_circuit02](https://github.com/Sedatekinci4/Erciyes-University-Project/assets/57107943/a38f98e1-ce59-40e1-a614-89f9b0ff9642)
+
+Output of the Project
+---------------------------------
+![Output](https://github.com/Sedatekinci4/Erciyes-University-Project/assets/57107943/37e96163-01d9-41ea-8598-c6546faea32e)
